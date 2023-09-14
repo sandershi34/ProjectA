@@ -16,7 +16,13 @@ npm install
 
 How to test 
 
-npx expo start
+npx expo start -tunnel
+
+Common Issues:
+
+Make sure developer mode is on, PC is discoverable, may require bluetooth pairing
+
+https://stackoverflow.com/questions/45558678/unable-to-connect-android-phone-to-my-project-with-expo
 
 https://reactnative.dev/docs/environment-setup
  
